@@ -3,7 +3,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> #calcomb.py
 >>> import random
 >>> class k:
-	def __init__ (k=0, k>0, k<=0).
+	def __init__ (k=0, k>0, k<=0)
+        k=0 = n
+	k<0=ok
+	k>0=ok
+def valk= x	
 	
-SyntaxError: invalid syntax
->>> def __init
