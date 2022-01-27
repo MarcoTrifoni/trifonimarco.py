@@ -186,4 +186,5 @@ classe  calcComb ():
     #PROBABILITA'
 
     def  probConfUtil ( self ):
-        passaggio
+
+        https://docs.google.com/document/d/1jCLhMS0ur8B3f-HZ5w0fsvAa9ld8eSoTtsVNx_FUJUo/edit?usp=sharing
